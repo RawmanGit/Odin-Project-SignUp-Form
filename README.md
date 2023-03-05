@@ -1,3 +1,1 @@
-# Odin-Project-SignUp-Form hello
-
-Hello
+# Odin-Project-SignUp-Form
